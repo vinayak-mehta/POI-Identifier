@@ -48,7 +48,6 @@ for key in data_dict.keys():
         emailers.append(key)
 emailers.sort()
 
-# For easy export below
 my_dataset = data_dict
 
 # These two lines extract the features specified in features_list
